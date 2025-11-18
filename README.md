@@ -21,6 +21,22 @@
   <code><a href="https://www.instagram.com/_md_fahad/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
+<p align="center">
+  Hi, I'm Fahad Molla — Full Stack Web Developer, JavaScript Enthusiast & AI Explorer from Bangladesh.
+  <br><br>
+  💻 I love building modern web applications and exploring new technologies.
+  <br>
+  🚀 Passionate about JavaScript, TypeScript, React, Node.js and AI tools.
+  <br>
+  📚 Currently learning advanced backend, scalable architectures & full-stack best practices.
+  <br>
+  🤖 Also exploring AI, machine learning basics, and automation tools.
+
+</p>
+
+
+
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
