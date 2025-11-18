@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahad Molla</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-![Header]([./header.png](https://github.com/AlFahad47/AlFahad47/blob/main/header.png)
+[Header](https://github.com/AlFahad47/AlFahad47/blob/main/header.png)
+[Create my banner!](https://leviarista.github.io/github-profile-header-generator/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alhamimfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alhamimfahad" height="30" width="40" /></a>
