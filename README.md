@@ -57,14 +57,14 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
+  <img height="200" src="https://stats-getteri.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
 
-  <!-- Most Used Languages -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <!-- Top Languages -->
+  <img height="200" src="https://stats-getteri.vercel.app/api/top-langs/?username=alfahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfahad47&theme=react-dark&hide_border=true" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alfahad47&theme=react-dark&hide_border=true" />
 </p>
 
 </p>
