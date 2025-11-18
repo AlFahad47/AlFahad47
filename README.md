@@ -10,6 +10,12 @@
 </div>
 
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/alhamimfahad/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/Al_Hamim_Fahad" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/_md_fahad/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alhamimfahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alhamimfahad" height="30" width="40" /></a>
