@@ -55,8 +55,7 @@
 <br>
 <p align=center>
   <div align=center>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfahad47&show_icons=true&locale=en&layout=compact" alt="alfahad47" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&locale=en" alt="alfahad47" /></p>
+
     <a href="https://github.com/alfahad47/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
