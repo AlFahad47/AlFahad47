@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Molla</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-[Header](https://github.com/AlFahad47/AlFahad47/blob/main/header.png)
+<h3 align="center">A passionate web developer from Bangladesh</h3><!--- banner --->
+<img src="./header.png" alt="banner image">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
