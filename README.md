@@ -55,7 +55,7 @@
 <br>
 <p align=center>
   <div align=center>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=alfahad47)](https://git.io/streak-stats)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfahad47a&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     <a href="https://github.com/alfahad47/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
