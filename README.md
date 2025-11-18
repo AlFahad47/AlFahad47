@@ -56,8 +56,11 @@
 ## ⚡ Stats ⚡
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <p align="left">   <img  src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
+</p>
+    <p align="right">  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
+ </p>
+
 </p>
 
 <p align="center">
