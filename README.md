@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Fahad Molla</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3><!--- banner --->
+<!--- banner --->
 <img src="./header.png" alt="banner image">
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Fahad Molla</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Passionate+about+AI" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
