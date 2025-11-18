@@ -56,11 +56,8 @@
 ## ⚡ Stats ⚡
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="200" src="https://stats-getteri.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img height="200" src="https://stats-getteri.vercel.app/api/top-langs/?username=alfahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
