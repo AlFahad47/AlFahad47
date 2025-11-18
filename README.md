@@ -2,6 +2,11 @@
 
 <!--- banner --->
 <img src="./header.png" alt="banner image">
+<hr>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlFahad47.AlFahad47">
+<hr>
+
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
