@@ -26,6 +26,8 @@
   <br><br>
   💻 I love building modern web applications and exploring new technologies.
   <br>
+  🎓 Completed my BSc in Computer Science & Engineering (CSE) from <strong>American International University–Bangladesh</strong>.
+  <br>
   🚀 Passionate about JavaScript, TypeScript, React, Node.js and AI tools.
   <br>
   📚 Currently learning advanced backend, scalable architectures & full-stack best practices.
