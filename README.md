@@ -69,7 +69,6 @@
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-## ⚡ Stats ⚡
 
 <p align="center">
   <span align="left">   <img  src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
