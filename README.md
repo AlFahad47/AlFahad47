@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AlFahad47&style=for-the-badge)
 
 <!--- banner --->
 <img src="./header.png" alt="banner image">
