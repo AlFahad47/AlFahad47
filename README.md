@@ -78,18 +78,10 @@
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahad47&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfahad47&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfahad47&theme=transparent&hide_border=true) |
 
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">
-  <span align="left">   <img  src="https://github-readme-stats.vercel.app/api?username=alfahad47&show_icons=true&theme=react&hide_border=true" />
-</span>
-    <span align="right">  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFahad47&layout=compact&langs_count=8&theme=react&hide_border=true" />
- </span>
 
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alfahad47&theme=react-dark&hide_border=true" />
