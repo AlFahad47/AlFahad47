@@ -22,12 +22,6 @@
   <a href="mailto:alhamimfahad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/alhamimfahad/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  
-  <code><a href="https://www.hackerrank.com/Al_Hamim_Fahad" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/_md_fahad/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
 
 <p align="center">
   Hi, I'm Fahad Molla — Full Stack Web Developer, JavaScript Enthusiast & AI Explorer from Bangladesh.
